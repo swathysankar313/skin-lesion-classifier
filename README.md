@@ -51,7 +51,6 @@ A multimodal deep learning pipeline for dermatological skin lesion classificatio
 ```
 
 
-```
 
 ---
 
