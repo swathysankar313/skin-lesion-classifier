@@ -50,22 +50,7 @@ A multimodal deep learning pipeline for dermatological skin lesion classificatio
  Download [HAM10000](https://www.kaggle.com/datasets/kmader/skin-lesion-analysis-toward-melanoma-detection) from Kaggle.
 ```
 
----
 
-##  Usage
-
-```bash
-# Train the multimodal model
-python main.py --mode train
-
-# Evaluate on validation set
-python main.py --mode evaluate --checkpoint models/checkpoints/best_model.pth
-
-# Generate Grad-CAM explanation for an image
-python main.py --mode explain --image path/to/image.jpg --method gradcam
-
-# Generate LIME explanation
-python main.py --mode explain --image path/to/image.jpg --method lime
 ```
 
 ---
