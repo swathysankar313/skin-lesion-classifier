@@ -48,9 +48,6 @@ A multimodal deep learning pipeline for dermatological skin lesion classificatio
 ##  Dataset Setup
 
  Download [HAM10000](https://www.kaggle.com/datasets/kmader/skin-lesion-analysis-toward-melanoma-detection) from Kaggle.
-```
-
-
 
 ---
 
