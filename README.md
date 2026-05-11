@@ -72,13 +72,6 @@ A multimodal deep learning pipeline for dermatological skin lesion classificatio
 
 Both methods are visualized and saved as overlaid heatmaps.
 
----
-
-##  Running Tests
-
-```bash
-pytest tests/ -v
-```
 
 ---
 
